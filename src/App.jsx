@@ -5,8 +5,10 @@ import LeftNav from "./LeftNav.jsx";
 
 function App() {
   return (
-    // <Navbar/>
+    <>
+    <Navbar/>
     <LeftNav/>
+    </>
   );
 }
 
